@@ -19,12 +19,6 @@ A local desktop client for Google Play and App Store Connect: multiple
 accounts, releases and reviews in one place. Built with Electron and React,
 with local CLI integrations. Currently shipping nightly builds.
 
-### [Joriana](https://joriana.fr)
-
-A training website with a course catalogue and quote workflows connected
-to HubSpot. My work spans the interface, migration from WordPress and API
-integrations, using Astro and Cloudflare.
-
 ### Verbum
 
 A private Flutter application for multilingual reading, search and
