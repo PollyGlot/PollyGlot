@@ -1,6 +1,7 @@
-<p>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/banner-mobile.svg" />
   <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/banner.svg" width="900" alt="Pavlo Trinko · Senior Product Engineer · Web, mobile and desktop" />
-</p>
+</picture>
 
 I build applications and developer tools, from the interface to the integrations and the release.
 Based in **Lille, France**.
@@ -23,7 +24,10 @@ Multiple accounts, releases and reviews, built with Electron and React.
 ### [gplay](https://github.com/PollyGlot/google-play-cli)
 
 <a href="https://gplay.sh">
-  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay.svg" width="900" alt="gplay: Google Play from your terminal. One Go binary for CI and coding agents." />
+  <picture>
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-mobile.svg" />
+    <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay.svg" width="900" alt="gplay: Google Play from your terminal. One Go binary for CI and coding agents." />
+  </picture>
 </a>
 
 Publish and manage Google Play apps from CI or a coding agent.
