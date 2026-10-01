@@ -1,56 +1,35 @@
-<picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/banner-mobile.svg" />
-  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/banner.svg" width="900" alt="Pavlo Trinko · Senior Product Engineer · Web, mobile and desktop" />
-</picture>
+# Pavlo Trinko
 
-I build applications and developer tools, from the interface to the integrations and the release.
-Based in **Lille, France**.
+**Senior Product Engineer** · Lille, France
+
+I build web, mobile and desktop applications, and tools for developers.
+From product UX to integrations and releases.
 
 **[Let's talk about your project →](https://www.linkedin.com/in/pavlo-trinko-aa4826139/)**
 
-## Products I'm building
+## Selected work
 
-### [Storedeck](https://storedeck.app)
+<table>
+  <tr>
+    <td width="64" align="center"><a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png" width="48" height="48" alt="Storedeck" /></a></td>
+    <td><strong><a href="https://storedeck.app">Storedeck</a></strong><br />Google Play and App Store Connect accounts, releases and reviews in one desktop app.<br /><sub>Electron · React · Nightly builds</sub><br /><a href="https://storedeck.app">Explore the product →</a></td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png" width="48" height="48" alt="gplay" /></a></td>
+    <td><strong><a href="https://github.com/PollyGlot/google-play-cli">gplay</a></strong><br />Publish and manage Google Play apps from CI or a coding agent.<br /><sub>Go · JSON output · Documented command contracts</sub><br /><a href="https://github.com/PollyGlot/google-play-cli">Code</a> · <a href="https://gplay.sh">Docs</a> · <a href="https://github.com/PollyGlot/google-play-cli-skills">Agent skills</a></td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png" width="48" height="48" alt="Verbum" /></td>
+    <td><strong>Verbum</strong><br />Multilingual reading, search and translation, with offline access.<br /><sub>Flutter · SQLite · Cloudflare · Private codebase</sub></td>
+  </tr>
+</table>
 
-**Every store account. One screen.** A local desktop client for Google Play and App Store Connect.
-Multiple accounts, releases and reviews, built with Electron and React.
+## Contributing to T3 Code
 
-<a href="https://storedeck.app">
-  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck.png" width="900" alt="Storedeck demo: App Store Connect beta distribution, build status and tester feedback" />
-</a>
-
-*Demo data shown. Currently shipping nightly builds.* **[Explore Storedeck →](https://storedeck.app)**
-
-### [gplay](https://github.com/PollyGlot/google-play-cli)
-
-<a href="https://gplay.sh">
-  <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-mobile.svg" />
-    <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay.svg" width="900" alt="gplay: Google Play from your terminal. One Go binary for CI and coding agents." />
-  </picture>
-</a>
-
-Publish and manage Google Play apps from CI or a coding agent.
-One Go binary, machine-readable output and documented command contracts.
-
-**[Source code](https://github.com/PollyGlot/google-play-cli)** · **[Docs & installation](https://gplay.sh)** · **[Agent skills](https://github.com/PollyGlot/google-play-cli-skills)**
-
-### Verbum
-
-A private Flutter application for multilingual reading, search and translation.
-Local SQLite data and Cloudflare synchronization support offline use on mobile and desktop.
-
-## Open source, in practice
-
-I also contribute to **T3 Code**, including merged improvements to
+I improve the everyday developer experience through contributions such as
 [Android chat layout](https://github.com/pingdotgg/t3code/pull/5988) and
 [command menu readability](https://github.com/pingdotgg/t3code/pull/7132).
 
-## Working together
+---
 
-Product UX, web and cross-platform applications, API integrations and delivery.
-I use coding agents with explicit requirements, documented decisions and verification of user flows.
-
-**[Connect on LinkedIn →](https://www.linkedin.com/in/pavlo-trinko-aa4826139/)**
-
-TypeScript · React · Astro · Electron · Flutter/Dart · Go · Cloudflare · Supabase
+**What I bring to a team:** product UX, cross-platform development, API integrations and delivery.
