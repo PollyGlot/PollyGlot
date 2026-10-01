@@ -1,6 +1,6 @@
-# Pavlo Trinko
+# Senior Product Engineer
 
-**Senior Product Engineer** · Lille, France
+Lille, France
 
 I build web, mobile and desktop applications, and tools for developers.
 From product UX to integrations and releases.
