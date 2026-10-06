@@ -1,6 +1,6 @@
 # Pavlo Trinko
 
-**Product engineer in Lille, France.** I build web, mobile and desktop apps,
+**Senior Product Engineer in Lille, France.** I build web, mobile and desktop apps,
 and the developer tools I need to ship them. I work agent-first: coding agents
 (Claude Code, Codex, T3 Code) write most of the code, I own the product
 decisions, the review and the release.
