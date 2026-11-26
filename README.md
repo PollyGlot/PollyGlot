@@ -14,7 +14,7 @@ I build web, mobile and desktop apps, and the developer tools I need to ship the
 ## What I'm building
 
 <p>
-  <a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png?v=2" width="56" height="56" align="left" alt="gplay" /></a>
+  <a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png?v=2" width="56" align="left" alt="gplay" /></a>
   &nbsp;&nbsp;<a href="https://gplay.sh"><strong>gplay</strong></a><br />
   &nbsp;&nbsp;Publish to Google Play from CI or a coding agent. One binary, JSON output, semantic exit codes.<br />
   &nbsp;&nbsp;<a href="https://github.com/PollyGlot/google-play-cli">repo</a> · <a href="https://gplay.sh">docs</a> &nbsp; <img src="https://img.shields.io/github/v/release/PollyGlot/google-play-cli?style=flat-square&label=release&color=238636" alt="Latest release" />
@@ -22,7 +22,7 @@ I build web, mobile and desktop apps, and the developer tools I need to ship the
 </p>
 
 <p>
-  <a href="https://github.com/PollyGlot/google-play-cli-skills"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png?v=2" width="56" height="56" align="left" alt="gplay skills" /></a>
+  <a href="https://github.com/PollyGlot/google-play-cli-skills"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png?v=2" width="56" align="left" alt="gplay skills" /></a>
   &nbsp;&nbsp;<a href="https://github.com/PollyGlot/google-play-cli-skills"><strong>gplay skills</strong></a><br />
   &nbsp;&nbsp;Agent skills that teach coding agents to ship to Google Play with gplay.<br />
   &nbsp;&nbsp;<code>npx skills add PollyGlot/google-play-cli-skills</code>
