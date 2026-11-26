@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://storedeck.app"><img src="https://img.shields.io/badge/storedeck.app-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="storedeck.app" /></a>
+  <a href="https://pavlotrinko.com"><img src="https://img.shields.io/badge/pavlotrinko.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="pavlotrinko.com" /></a>
   <a href="https://www.linkedin.com/in/pavlo-trinko-aa4826139/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://x.com/PollyGlot"><img src="https://img.shields.io/badge/@PollyGlot-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:paul.trinko95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to_freelance-2ea043?style=flat-square" alt="Open to freelance" />
 </p>
 
