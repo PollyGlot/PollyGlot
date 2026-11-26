@@ -16,35 +16,19 @@ them. Coding agents write most of the code; I own the product decisions and the 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png" width="40" height="40" align="left" alt="Storedeck" /></a>
-      <a href="https://storedeck.app"><strong>Storedeck</strong></a><br />
-      <sub>Google Play and App Store Connect accounts, releases and reviews in one desktop app.</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png" width="40" height="40" align="left" alt="gplay" /></a>
-      <a href="https://github.com/PollyGlot/google-play-cli"><strong>gplay</strong></a> · <a href="https://gplay.sh">docs</a> · <a href="https://github.com/PollyGlot/google-play-cli-skills">skills</a><br />
-      <sub>Publish to Google Play from CI or a coding agent. One binary, JSON output, semantic exit codes.</sub>
-      <br /><br />
-      <img src="https://img.shields.io/github/v/release/PollyGlot/google-play-cli?style=flat-square&label=release&color=238636" alt="Latest release" />
-      <img src="https://img.shields.io/github/stars/PollyGlot/google-play-cli?style=flat-square&color=555" alt="Stars" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    </td>
+    <td width="64" align="center" valign="middle"><a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png" width="40" height="40" alt="Storedeck" /></a></td>
+    <td valign="middle"><strong>Storedeck</strong><br /><sub>Google Play and App Store Connect accounts, releases and reviews in one desktop app.</sub></td>
+    <td align="right" valign="middle"><a href="https://storedeck.app">storedeck.app</a></td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png" width="40" height="40" align="left" alt="Verbum" />
-      <strong>Verbum</strong><br />
-      <sub>Multilingual reading, search and translation, offline-first. Private codebase.</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    </td>
+    <td width="64" align="center" valign="middle"><a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png" width="40" height="40" alt="gplay" /></a></td>
+    <td valign="middle"><strong>gplay</strong><br /><sub>Publish to Google Play from CI or a coding agent. One binary, JSON output, semantic exit codes.</sub></td>
+    <td align="right" valign="middle"><a href="https://github.com/PollyGlot/google-play-cli">repo</a> · <a href="https://gplay.sh">docs</a> · <a href="https://github.com/PollyGlot/google-play-cli-skills">skills</a></td>
+  </tr>
+  <tr>
+    <td width="64" align="center" valign="middle"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png" width="40" height="40" alt="Verbum" /></td>
+    <td valign="middle"><strong>Verbum</strong><br /><sub>Multilingual reading, search and translation, offline-first.</sub></td>
+    <td align="right" valign="middle"><sub>private</sub></td>
   </tr>
 </table>
 
