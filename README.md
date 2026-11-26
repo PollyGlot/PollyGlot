@@ -14,25 +14,32 @@ I build web, mobile and desktop apps, and the developer tools I need to ship the
 ## What I'm building
 
 <p>
-  <a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png" width="64" height="64" align="left" alt="Storedeck" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storedeck.app"><strong>Storedeck</strong></a><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;Google Play and App Store Connect accounts, releases and reviews in one desktop app.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storedeck.app">storedeck.app</a>
-</p>
-
-<p>
   <a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png" width="64" height="64" align="left" alt="gplay" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gplay.sh"><strong>gplay</strong></a><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;Publish to Google Play from CI or a coding agent. One binary, JSON output, semantic exit codes.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/PollyGlot/google-play-cli">repo</a> · <a href="https://gplay.sh">docs</a> · <a href="https://github.com/PollyGlot/google-play-cli-skills">skills</a> &nbsp; <img src="https://img.shields.io/github/v/release/PollyGlot/google-play-cli?style=flat-square&label=release&color=238636" alt="Latest release" />
+  &nbsp;&nbsp;<a href="https://gplay.sh"><strong>gplay</strong></a><br />
+  &nbsp;&nbsp;Publish to Google Play from CI or a coding agent. One binary, JSON output, semantic exit codes.<br />
+  &nbsp;&nbsp;<a href="https://github.com/PollyGlot/google-play-cli">repo</a> · <a href="https://gplay.sh">docs</a> &nbsp; <img src="https://img.shields.io/github/v/release/PollyGlot/google-play-cli?style=flat-square&label=release&color=238636" alt="Latest release" />
   <img src="https://img.shields.io/github/stars/PollyGlot/google-play-cli?style=flat-square&color=555" alt="Stars" />
 </p>
 
 <p>
+  <a href="https://github.com/PollyGlot/google-play-cli-skills"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png" width="64" height="64" align="left" alt="gplay skills" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/PollyGlot/google-play-cli-skills"><strong>gplay skills</strong></a><br />
+  &nbsp;&nbsp;Agent skills that teach coding agents to ship to Google Play with gplay.<br />
+  &nbsp;&nbsp;<code>npx skills add PollyGlot/google-play-cli-skills</code>
+</p>
+
+<p>
+  <a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png" width="64" height="64" align="left" alt="Storedeck" /></a>
+  &nbsp;&nbsp;<a href="https://storedeck.app"><strong>Storedeck</strong></a><br />
+  &nbsp;&nbsp;Google Play and App Store Connect accounts, releases and reviews in one desktop app.<br />
+  &nbsp;&nbsp;<a href="https://storedeck.app">storedeck.app</a>
+</p>
+
+<p>
   <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png" width="64" height="64" align="left" alt="Verbum" />
-  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Verbum</strong><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;Multilingual reading, search and translation, offline-first.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;Private codebase
+  &nbsp;&nbsp;<strong>Verbum</strong><br />
+  &nbsp;&nbsp;Multilingual reading, search and translation, offline-first.<br />
+  &nbsp;&nbsp;Private codebase
 </p>
 
 **Open source:** [T3 Code](https://github.com/pingdotgg/t3code/pulls?q=is%3Apr+author%3APollyGlot+is%3Amerged), merged PRs on the mobile and web clients
