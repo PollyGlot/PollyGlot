@@ -10,8 +10,7 @@
 </p>
 
 I build web, mobile and desktop apps, and the developer tools I need to ship
-them. Coding agents write most of the code; I own the product decisions, the
-review and the release.
+them. Coding agents write most of the code; I own the product decisions and the review.
 
 ## What I'm building
 
@@ -37,7 +36,7 @@ review and the release.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png" width="40" height="40" align="left" alt="Verbum" />
       <strong>Verbum</strong><br />
       <sub>Multilingual reading, search and translation, offline-first. Private codebase.</sub>
@@ -46,40 +45,7 @@ review and the release.
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
     </td>
-    <td width="50%" valign="top">
-      <strong>Open source</strong><br />
-      <sub>
-        <a href="https://github.com/pingdotgg/t3code/pulls?q=is%3Apr+author%3APollyGlot+is%3Amerged">T3 Code</a>: merged PRs on the mobile and web clients<br />
-        <a href="https://github.com/PollyGlot/google-play-cli-skills">gplay agent skills</a>: <code>npx skills add PollyGlot/google-play-cli-skills</code><br />
-        <a href="https://github.com/PollyGlot/ship-feature-skill">ship-feature-skill</a>: grill → prototype → ADR → PRD → TDD → PR
-      </sub>
-    </td>
   </tr>
 </table>
 
-## How I work
-
-- **Agent-first delivery**: specs become tickets, tickets go to parallel agents,
-  every change lands through a reviewed PR and a green CI.
-- **Small releases, often**: store pipelines and nightly builds.
-
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square" alt="Codex" />
-  <img src="https://img.shields.io/badge/T3_Code-6e40c9?style=flat-square" alt="T3 Code" />
-  <br />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-## Work with me
-
-Open to freelance missions: product engineering on mobile and desktop apps,
-Google Play and App Store release pipelines, and agent-driven delivery for
-small teams. **[Let's talk →](https://www.linkedin.com/in/pavlo-trinko-aa4826139/)**
+**Open source:** [T3 Code](https://github.com/pingdotgg/t3code/pulls?q=is%3Apr+author%3APollyGlot+is%3Amerged) (merged PRs on the mobile and web clients) · [gplay agent skills](https://github.com/PollyGlot/google-play-cli-skills)
