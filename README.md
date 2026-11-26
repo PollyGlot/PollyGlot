@@ -27,7 +27,7 @@ them. Coding agents write most of the code; I own the product decisions and the 
     </td>
     <td width="50%" valign="top">
       <a href="https://gplay.sh"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/gplay-icon.png" width="40" height="40" align="left" alt="gplay" /></a>
-      <a href="https://github.com/PollyGlot/google-play-cli"><strong>gplay</strong></a> · <a href="https://gplay.sh">docs</a><br />
+      <a href="https://github.com/PollyGlot/google-play-cli"><strong>gplay</strong></a> · <a href="https://gplay.sh">docs</a> · <a href="https://github.com/PollyGlot/google-play-cli-skills">agent skills</a><br />
       <sub>Publish to Google Play from CI or a coding agent. One binary, JSON output, semantic exit codes.</sub>
       <br /><br />
       <img src="https://img.shields.io/github/v/release/PollyGlot/google-play-cli?style=flat-square&label=release&color=238636" alt="Latest release" />
@@ -48,4 +48,4 @@ them. Coding agents write most of the code; I own the product decisions and the 
   </tr>
 </table>
 
-**Open source:** [T3 Code](https://github.com/pingdotgg/t3code/pulls?q=is%3Apr+author%3APollyGlot+is%3Amerged) (merged PRs on the mobile and web clients) · [gplay agent skills](https://github.com/PollyGlot/google-play-cli-skills)
+**Open source:** [T3 Code](https://github.com/pingdotgg/t3code/pulls?q=is%3Apr+author%3APollyGlot+is%3Amerged), merged PRs on the mobile and web clients
