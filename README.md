@@ -29,14 +29,14 @@ I build web, mobile and desktop apps, and the developer tools I need to ship the
 </p>
 
 <p>
-  <a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png" width="56" height="49" align="left" alt="Storedeck" /></a>
+  <a href="https://storedeck.app"><img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/storedeck-icon.png?v=2" width="56" align="left" alt="Storedeck" /></a>
   &nbsp;&nbsp;<a href="https://storedeck.app"><strong>Storedeck</strong></a><br />
   &nbsp;&nbsp;Google Play and App Store Connect accounts, releases and reviews in one desktop app.<br />
   &nbsp;&nbsp;<a href="https://storedeck.app">storedeck.app</a>
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png" width="56" height="56" align="left" alt="Verbum" />
+  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/verbum-icon.png?v=2" width="56" align="left" alt="Verbum" />
   &nbsp;&nbsp;<strong>Verbum</strong><br />
   &nbsp;&nbsp;Multilingual reading, search and translation, offline-first.<br />
   &nbsp;&nbsp;Private codebase
