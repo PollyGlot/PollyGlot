@@ -1,16 +1,23 @@
 name: banner
 
+# The banner lives alone on the `banner` branch, force-pushed as a single
+# commit, so hourly refreshes never pile up commits on main.
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - scripts/banner.mjs
       - .github/workflows/banner.yml
 
 permissions:
   contents: write
+  actions: write
+
+concurrency:
+  group: banner
 
 jobs:
   banner:
@@ -22,15 +29,22 @@ jobs:
           node-version: 22
       - name: Render banner
         env:
-          # PROFILE_TOKEN (optional PAT, read:user) counts private contributions
-          # like the profile does; the default token only sees public ones.
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
-        run: node scripts/banner.mjs
-      - name: Commit when changed
+        run: node scripts/banner.mjs --out "$RUNNER_TEMP/banner.svg"
+      - name: Publish to the banner branch when changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/banner.svg
-          git diff --cached --quiet && exit 0
-          git commit -m "Refresh banner"
-          git push
+          blob=$(git hash-object -w "$RUNNER_TEMP/banner.svg")
+          tree=$(printf '100644 blob %s\tbanner.svg\n' "$blob" | git mktree)
+          if git fetch -q --depth=1 origin banner 2>/dev/null \
+            && [ "$(git rev-parse 'FETCH_HEAD^{tree}')" = "$tree" ]; then
+            echo "unchanged"; exit 0
+          fi
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          commit=$(git commit-tree "$tree" -m "Banner")
+          git push -f origin "$commit:refs/heads/banner"
+      # GitHub disables schedules after 60 days without commits on main.
+      - name: Keep the schedule alive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow enable banner.yml

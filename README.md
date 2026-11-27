@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/main/assets/banner.svg" width="100%" alt="Pavlo Trinko, Senior Product Engineer. Web, mobile and desktop apps, agent-first. Lille, France." />
+  <img src="https://raw.githubusercontent.com/PollyGlot/PollyGlot/banner/banner.svg" width="100%" alt="Pavlo Trinko, Senior Product Engineer. Web, mobile and desktop apps, agent-first. Lille, France." />
 </p>
 
 <p align="center">
